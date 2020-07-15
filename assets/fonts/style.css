@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Tajawal-Black';
+   font-display: swap;
+   src: url('Tajawal-Black/font.ttf');
+}
+@font-face {
+   font-family: 'Tajawal-Regular';
+   font-display: swap;
+   src: url('Tajawal-Regular/font.ttf');
+}
