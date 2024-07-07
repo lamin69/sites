@@ -510,17 +510,12 @@ zipp                             3.19.2
 !ls -l /root/.buildozer/android/platform/
 
 
-total 1852332
-drwxr-xr-x  3 root root      4096 Jul  6 03:26 android
-drwxr-xr-x 11 root root      4096 Sep 29  2021 android-ndk-r23b
--rw-r--r--  1 root root 725122099 Jul  6 03:59 android-ndk-r23b-linux.zip
-drwxr-xr-x 11 root root      4096 Jul  6 04:36 android-ndk-r25b
--rw-r--r--  1 root root 530975885 Jul  6 03:26 android-ndk-r25b-linux.zip
--rw-r--r--  1 root root 530975885 Aug 22  2022 android-ndk-r25b-linux.zip.1
-drwxr-xr-x  8 root root      4096 Jul  6 03:27 android-sdk
-drwxr-xr-x  3 root root      4096 Jul  6 03:26 apache-ant-1.9.4
-drwxr-xr-x  3 root root      4096 Jul  6 04:35 cmdline-tools
--rw-r--r--  1 root root 109673042 Jul 28  2021 commandlinetools-linux-7583922_latest.zip
+total 518548
+drwxr-xr-x  3 root root      4096 Jul  7 01:54 android
+drwxr-xr-x 11 root root      4096 Aug 12  2022 android-ndk-r25b
+-rw-r--r--  1 root root 530975885 Aug 22  2022 android-ndk-r25b-linux.zip
+drwxr-xr-x  8 root root      4096 Jul  7 01:59 android-sdk
+drwxr-xr-x  3 root root      4096 Jul  7 01:58 apache-ant-1.9.4
 
 ///////////////////////////////////////////////////////////////////
 
